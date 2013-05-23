@@ -7,6 +7,10 @@ Big ambitions, fast growth! We need more of the best and the brightest engineers
 
 Contact us at jobs@shapeupclub.com
 
+====
+
 https://www.shapeupclub.com
+
 https://itunes.apple.com/app/calorie-counter-shapeup-club/id286906691
+
 https://play.google.com/store/apps/details?id=com.sillens.shapeupclub&hl=en
