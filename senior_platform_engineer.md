@@ -13,3 +13,5 @@ Tech-wise, our server code is written in Python (Django) and you should be famil
    * You have or want experience in a fast growing startup
    * You love building products and work for millions of users
    * You like software design patterns, new data stores/engines and (bonus) the challenges of machine learning
+
+Contact us at jobs@shapeupclub.com
