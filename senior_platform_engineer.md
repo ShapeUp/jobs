@@ -7,7 +7,7 @@ Product-wise, you will be taking features from the idea stage to scalable produc
 
 Tech-wise, our server code is written in Python (Django) and you should be familiar with distributed computing (scalable stack, queue-driven distributed processing), cloud hosting (Amazon), database optimization (MySQL, Redis, MongoDB), search solutions (Sphinx, ElasticSearch), test driven development, load testing, etc.
 
-   * You have worked on multiple consumer web/mobile application
+   * You have worked on multiple consumer web/mobile applications
    * You are interested by the trend of Quantified Self products (Fitbit, NikeFuel, Withings, Wakemate, ...)
    * You want to work with Python, Amazon Web Services and distributed systems
    * You have or want experience in a fast growing startup
